@@ -1,8 +1,1 @@
-{
-  "v": 2,
-  "typ": "ctl",
-  "allowAll": false,
-  "items": [
-    { "sn": "D8550F72FDD5", "st": "ACTIVE", "exp": 0, "name": "م/ أمين العريقي" }
-  ]
-}
+ABHAR2.eyJ2IjoyLCJ0eXAiOiJjdGwiLCJnZW4iOjE3OTQ1ODczMDgsImFsbG93QWxsIjpmYWxzZSwiaXRlbXMiOlt7InNuIjoiRDg1NTBGNzJGREQ1Iiwic3QiOiJBQ1RJVkUiLCJleHAiOjAsIm5hbWUiOiLZhS8g2KPZhdmK2YYg2KfZhNi52LHZitmC2YoifV19.mRz15W-L6-jxVkLBmnaMpg7fQriXGhJ7kXmMTQXYe7b4B7aU2GzVa1pRhZ1I0j6wrpjXy9k8nsYlaAv9E22wAg
