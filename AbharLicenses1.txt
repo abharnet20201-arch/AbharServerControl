@@ -1,1 +1,8 @@
-ABHAR2.eyJ2IjoyLCJ0eXAiOiJjdGwiLCJnZW4iOjE3OTQ1ODQzNzcsImFsbG93QWxsIjp0cnVlLCJpdGVtcyI6W119.BDPx6Abqf5g_LkA_xffmndSaqHlP4XC8i2xj1cJAw1h19QMkAIC3g9mbd-sVq9RRWKO9bIRn8RyRVzOsmTmWAQ
+{
+  "v": 2,
+  "typ": "ctl",
+  "allowAll": false,
+  "items": [
+    { "sn": "D8550F72FDD5", "st": "ACTIVE", "exp": 0, "name": "م/ أمين العريقي" }
+  ]
+}
